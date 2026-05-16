@@ -37,10 +37,7 @@ WeatherSnap is a modern Android weather reporting app built using Kotlin and Jet
 ## Saved Reports Screen
 ![Saved Reports Screen](screenshotssaved_reports.jpeg)
 
-## Demo Video
+# Demo & APK
 
-(Add demo video link here)
+[Google Drive Folder](https://drive.google.com/drive/folders/1JJ3XcrGxeAMgJWgL1iTegxZsjC58qPJz?usp=sharing)
 
-## APK
-
-(Add APK link here)
