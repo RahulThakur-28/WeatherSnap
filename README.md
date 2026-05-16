@@ -23,20 +23,19 @@ WeatherSnap is a modern Android weather reporting app built using Kotlin and Jet
 - Room Database
 - CameraX
 - Open-Meteo API
-
 # Screenshots
 
 ## Weather Screen
-![Weather Screen](screenshots/weather_screen.jpg)
+![Weather Screen](screenshotsweather_screen.jpeg)
 
 ## Create Report Screen
-![Create Report Screen](screenshots/create_report.jpg)
+![Create Report Screen](screenshotscreate_report.jpeg)
 
 ## Custom Camera Screen
-![Custom Camera Screen](screenshots/camera_screen.jpg)
+![Custom Camera Screen](screenshotscamera_screen.jpeg)
 
 ## Saved Reports Screen
-![Saved Reports Screen](screenshots/saved_reports.jpg)
+![Saved Reports Screen](screenshotssaved_reports.jpeg)
 
 ## Demo Video
 
