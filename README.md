@@ -1,4 +1,5 @@
 
+
 # WeatherSnap
 
 WeatherSnap is a modern Android weather reporting app built using Kotlin and Jetpack Compose.
